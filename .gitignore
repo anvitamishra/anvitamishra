@@ -1,0 +1,10 @@
+# macOS metadata
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*~
